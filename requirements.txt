@@ -1,3 +1,6 @@
 text based chat
 vedio chat
 document share
+emogi support
+group chat support
+stickers sharing
